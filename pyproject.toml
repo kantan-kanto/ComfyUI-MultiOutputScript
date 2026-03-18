@@ -23,10 +23,10 @@ license = {file = "LICENSE"}
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/kantan-kanto/ComfyUI-LLM-Session"
+Repository = "https://github.com/kantan-kanto/ComfyUI-MultiOutputScript"
 #  Used by Comfy Registry https://registry.comfy.org
-Documentation = "https://github.com/kantan-kanto/ComfyUI-LLM-Session/blob/main/README.md"
-"Bug Tracker" = "https://github.com/kantan-kanto/ComfyUI-LLM-Session/issues"
+Documentation = "https://github.com/kantan-kanto/ComfyUI-MultiOutputScript/blob/main/README.md"
+"Bug Tracker" = "https://github.com/kantan-kanto/ComfyUI-MultiOutputScript/issues"
 
 [tool.comfy]
 PublisherId = "kantan-kanto"
